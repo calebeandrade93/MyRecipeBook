@@ -1,0 +1,6 @@
+@MyRecipeBook.Domain_HostAddress = http://localhost:5214
+
+GET {{MyRecipeBook.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

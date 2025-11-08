@@ -1,0 +1,6 @@
+@MyRecipeBook.Exceptions_HostAddress = http://localhost:5027
+
+GET {{MyRecipeBook.Exceptions_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
